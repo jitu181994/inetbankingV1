@@ -1,0 +1,6 @@
+[0530/185227.028:ERROR:file_io_win.cc(179)] CreateFile C:\Users\jitu\AppData\Local\Temp\scoped_dir7716_1908344065\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0530/194031.603:ERROR:file_io_win.cc(179)] CreateFile C:\Users\jitu\AppData\Local\Temp\scoped_dir3816_432309334\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0530/195246.281:ERROR:file_io_win.cc(179)] CreateFile C:\Users\jitu\AppData\Local\Temp\scoped_dir13148_2069767937\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0618/120151.012:ERROR:file_io_win.cc(179)] CreateFile C:\Users\jitu\AppData\Local\Temp\scoped_dir8132_472152901\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0618/124950.851:ERROR:file_io_win.cc(179)] CreateFile C:\Users\jitu\AppData\Local\Temp\scoped_dir11492_2065331533\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0618/181749.264:ERROR:file_io_win.cc(179)] CreateFile C:\Users\jitu\AppData\Local\Temp\scoped_dir12520_1011025149\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
